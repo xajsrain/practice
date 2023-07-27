@@ -6,9 +6,6 @@
   "scripts": {
     "env": "nodemon index.js"
   },
-  "engines": {
-    "node": ">= 6.0.0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xajsrain/practice.git"
@@ -21,6 +18,7 @@
   },
   "homepage": "https://github.com/xajsrain/practice#readme",
   "devDependencies": {
+    "@types/node": "^20.4.5",
     "nodemon": "^3.0.1"
   },
   "dependencies": {
